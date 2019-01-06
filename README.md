@@ -1,0 +1,1 @@
+Notes API built by using cloud-computing execution model called Serverless provided by AWS.
